@@ -1,0 +1,116 @@
+D:\current researches\torabi\Association\Association\bin\Debug\Association.exe
+D:\current researches\torabi\Association\Association\bin\Debug\Association.pdb
+D:\current researches\torabi\Association\Association\obj\x86\Debug\Association.Form1.resources
+D:\current researches\torabi\Association\Association\obj\x86\Debug\Association.Properties.Resources.resources
+D:\current researches\torabi\Association\Association\obj\x86\Debug\Association.csproj.GenerateResource.Cache
+D:\current researches\torabi\Association\Association\obj\x86\Debug\Association.exe
+D:\current researches\torabi\Association\Association\obj\x86\Debug\Association.pdb
+D:\current researches\torabi\Association\Association\obj\x86\Debug\Association.csprojResolveAssemblyReference.cache
+D:\current researches\Motahare torabi\Association\Association\obj\x86\Debug\Association.exe
+D:\current researches\Motahare torabi\Association\Association\obj\x86\Debug\Association.pdb
+D:\current researches\Motahare torabi\Association\Association\bin\Debug\Association.exe
+D:\current researches\Motahare torabi\Association\Association\bin\Debug\Association.pdb
+D:\current researches\Motahare torabi\Association\Association\obj\x86\Debug\Association.Form1.resources
+D:\current researches\Motahare torabi\Association\Association\obj\x86\Debug\Association.Properties.Resources.resources
+D:\current researches\Motahare torabi\Association\Association\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\current researches\Motahare torabi\Association\Association\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\current researches\Motahare torabi\Association\Association\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\current researches\Ebrahim pour\Association\Association\obj\x86\Debug\Association.exe
+D:\current researches\Ebrahim pour\Association\Association\obj\x86\Debug\Association.pdb
+D:\current researches\Ebrahim pour\Association\Association\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\current researches\Ebrahim pour\Association\Association\obj\x86\Debug\Association.Form1.resources
+D:\current researches\Ebrahim pour\Association\Association\obj\x86\Debug\Association.Properties.Resources.resources
+D:\current researches\Ebrahim pour\Association\Association\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\current researches\Ebrahim pour\Association\Association\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\current researches\Ebrahim pour\Association\Association\bin\Debug\Association.exe
+D:\current researches\Ebrahim pour\Association\Association\bin\Debug\Association.pdb
+D:\current researches\Ebrahim pour\Apriori\Association\obj\x86\Debug\Association.exe
+D:\current researches\Ebrahim pour\Apriori\Association\obj\x86\Debug\Association.pdb
+D:\current researches\Ebrahim pour\Apriori\Association\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\current researches\Ebrahim pour\Apriori\Association\obj\x86\Debug\Association.Form1.resources
+D:\current researches\Ebrahim pour\Apriori\Association\obj\x86\Debug\Association.Properties.Resources.resources
+D:\current researches\Ebrahim pour\Apriori\Association\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\current researches\Ebrahim pour\Apriori\Association\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\current researches\Ebrahim pour\Apriori\Association\bin\Debug\Association.exe
+D:\current researches\Ebrahim pour\Apriori\Association\bin\Debug\Association.pdb
+F:\current researches\Ebrahim pour\Apriori\Association\obj\x86\Debug\Association.exe
+F:\current researches\Ebrahim pour\Apriori\Association\obj\x86\Debug\Association.pdb
+F:\current researches\Ebrahim pour\Apriori\Association\bin\Debug\Association.exe
+F:\current researches\Ebrahim pour\Apriori\Association\bin\Debug\Association.pdb
+F:\current researches\Ebrahim pour\Apriori\Association\obj\x86\Debug\Association.Form1.resources
+F:\current researches\Ebrahim pour\Apriori\Association\obj\x86\Debug\Association.Properties.Resources.resources
+F:\current researches\Ebrahim pour\Apriori\Association\obj\x86\Debug\Association.csproj.GenerateResource.Cache
+F:\current researches\my research\Apriori\Association\obj\x86\Debug\Association.exe
+F:\current researches\my research\Apriori\Association\obj\x86\Debug\Association.pdb
+F:\current researches\my research\Apriori\Association\bin\Debug\Association.exe
+F:\current researches\my research\Apriori\Association\bin\Debug\Association.pdb
+F:\current researches\my research\Apriori\Association\obj\x86\Debug\Association.Form1.resources
+F:\current researches\my research\Apriori\Association\obj\x86\Debug\Association.Properties.Resources.resources
+F:\current researches\my research\Apriori\Association\obj\x86\Debug\Association.csproj.GenerateResource.Cache
+F:\current researches\my research\Apriori\Association\obj\x86\Debug\Association.ARH.resources
+F:\current researches\my research\Apriori\Association\obj\x86\Debug\Association.csprojResolveAssemblyReference.cache
+C:\Users\IT\Desktop\Pourmohammadi\Apriori\Association\obj\x86\Debug\Association.exe
+C:\Users\IT\Desktop\Pourmohammadi\Apriori\Association\obj\x86\Debug\Association.pdb
+C:\Users\IT\Desktop\Pourmohammadi\Apriori\Association\bin\Debug\Association.exe
+C:\Users\IT\Desktop\Pourmohammadi\Apriori\Association\bin\Debug\Association.pdb
+C:\Users\IT\Desktop\Pourmohammadi\Apriori\Association\obj\x86\Debug\Association.csprojResolveAssemblyReference.cache
+C:\Users\IT\Desktop\Pourmohammadi\Apriori\Association\obj\x86\Debug\Association.ARH.resources
+C:\Users\IT\Desktop\Pourmohammadi\Apriori\Association\obj\x86\Debug\Association.Form1.resources
+C:\Users\IT\Desktop\Pourmohammadi\Apriori\Association\obj\x86\Debug\Association.Properties.Resources.resources
+C:\Users\IT\Desktop\Pourmohammadi\Apriori\Association\obj\x86\Debug\Association.csproj.GenerateResource.Cache
+D:\current researches\my research\Association Rule Hiding-Survey-KER\Experimental study\Pourmohammadi\Apriori\Association\obj\x86\Debug\Association.exe
+D:\current researches\my research\Association Rule Hiding-Survey-KER\Experimental study\Pourmohammadi\Apriori\Association\obj\x86\Debug\Association.pdb
+D:\current researches\my research\Association Rule Hiding-Survey-KER\Experimental study\Pourmohammadi\Apriori\Association\bin\Debug\Association.exe
+D:\current researches\my research\Association Rule Hiding-Survey-KER\Experimental study\Pourmohammadi\Apriori\Association\bin\Debug\Association.pdb
+D:\current researches\my research\Association Rule Hiding-Survey-KER\Experimental study\Pourmohammadi\Apriori\Association\obj\x86\Debug\Association.csprojResolveAssemblyReference.cache
+D:\current researches\my research\Association Rule Hiding-Survey-KER\Experimental study\Pourmohammadi\Apriori\Association\obj\x86\Debug\Association.ARH.resources
+D:\current researches\my research\Association Rule Hiding-Survey-KER\Experimental study\Pourmohammadi\Apriori\Association\obj\x86\Debug\Association.Dataset_Generation.resources
+D:\current researches\my research\Association Rule Hiding-Survey-KER\Experimental study\Pourmohammadi\Apriori\Association\obj\x86\Debug\Association.Form1.resources
+D:\current researches\my research\Association Rule Hiding-Survey-KER\Experimental study\Pourmohammadi\Apriori\Association\obj\x86\Debug\Association.Properties.Resources.resources
+D:\current researches\my research\Association Rule Hiding-Survey-KER\Experimental study\Pourmohammadi\Apriori\Association\obj\x86\Debug\Association.csproj.GenerateResource.Cache
+D:\current researches\Negar\Apriori\Association\obj\x86\Debug\Association.exe
+D:\current researches\Negar\Apriori\Association\obj\x86\Debug\Association.pdb
+D:\current researches\Negar\Apriori\Association\bin\Debug\Association.exe
+D:\current researches\Negar\Apriori\Association\bin\Debug\Association.pdb
+D:\current researches\Negar\Apriori\Association\obj\x86\Debug\Association.csprojResolveAssemblyReference.cache
+D:\current researches\Negar\Apriori\Association\obj\x86\Debug\Association.ARH.resources
+D:\current researches\Negar\Apriori\Association\obj\x86\Debug\Association.Form1.resources
+D:\current researches\Negar\Apriori\Association\obj\x86\Debug\Association.Properties.Resources.resources
+D:\current researches\Negar\Apriori\Association\obj\x86\Debug\Association.csproj.GenerateResource.Cache
+D:\current researches\Negar\Apriori\Association\bin\Debug\Association.exe.manifest
+D:\current researches\Negar\Apriori\Association\bin\Debug\Association.application
+D:\current researches\Negar\Apriori\Association\obj\x86\Debug\Association.exe.manifest
+D:\current researches\Negar\Apriori\Association\obj\x86\Debug\Association.application
+D:\current researches\my research\New Idea\Apriori\Association\obj\x86\Debug\Association.exe
+D:\current researches\my research\New Idea\Apriori\Association\obj\x86\Debug\Association.pdb
+D:\current researches\my research\New Idea\Apriori\Association\obj\x86\Debug\Association.csprojResolveAssemblyReference.cache
+D:\current researches\my research\New Idea\Apriori\Association\obj\x86\Debug\Association.ARH.resources
+D:\current researches\my research\New Idea\Apriori\Association\obj\x86\Debug\Association.Form1.resources
+D:\current researches\my research\New Idea\Apriori\Association\obj\x86\Debug\Association.Properties.Resources.resources
+D:\current researches\my research\New Idea\Apriori\Association\obj\x86\Debug\Association.csproj.GenerateResource.Cache
+D:\current researches\my research\New Idea\Apriori\Association\bin\Debug\Association.exe.manifest
+D:\current researches\my research\New Idea\Apriori\Association\bin\Debug\Association.application
+D:\current researches\my research\New Idea\Apriori\Association\bin\Debug\Association.exe
+D:\current researches\my research\New Idea\Apriori\Association\bin\Debug\Association.pdb
+D:\current researches\my research\New Idea\Apriori\Association\obj\x86\Debug\Association.exe.manifest
+D:\current researches\my research\New Idea\Apriori\Association\obj\x86\Debug\Association.application
+D:\current researches\my research\New Idea\Apriori\Association\obj\x86\Debug\Association.MABC.resources
+D:\current researches\my research\New Idea\Apriori\Association\obj\x86\Debug\Association.ABC.resources
+D:\current researches\my research\New Idea\Apriori\Association\obj\x86\Debug\Association.GA.resources
+D:\current researches\my research\[Proposal] ABC4ARH\Apriori\Association\obj\x86\Debug\Association.exe
+C:\Users\IT\Desktop\Apriori\Association\obj\x86\Debug\Association.exe
+C:\Users\IT\Desktop\Apriori\Association\obj\x86\Debug\Association.csprojResolveAssemblyReference.cache
+C:\Users\IT\Desktop\Apriori\Association\obj\x86\Debug\Association.MABC.resources
+C:\Users\IT\Desktop\Apriori\Association\obj\x86\Debug\Association.ABC.resources
+C:\Users\IT\Desktop\Apriori\Association\obj\x86\Debug\Association.Form1.resources
+C:\Users\IT\Desktop\Apriori\Association\obj\x86\Debug\Association.GA.resources
+C:\Users\IT\Desktop\Apriori\Association\obj\x86\Debug\Association.Properties.Resources.resources
+C:\Users\IT\Desktop\Apriori\Association\obj\x86\Debug\Association.csproj.GenerateResource.Cache
+C:\Users\IT\Desktop\Apriori\Association\bin\Debug\Association.exe.manifest
+C:\Users\IT\Desktop\Apriori\Association\bin\Debug\Association.application
+C:\Users\IT\Desktop\Apriori\Association\bin\Debug\Association.exe
+C:\Users\IT\Desktop\Apriori\Association\obj\x86\Debug\Association.exe.manifest
+C:\Users\IT\Desktop\Apriori\Association\obj\x86\Debug\Association.application
+C:\Users\IT\Desktop\Apriori\Association\obj\x86\Debug\Association.pdb
+C:\Users\IT\Desktop\ABC4ARH\Association\obj\x86\Debug\Association.exe
+C:\Users\IT\Desktop\ABC4ARH\Association\obj\x86\Debug\Association.pdb
